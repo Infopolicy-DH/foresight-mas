@@ -130,6 +130,7 @@ Research on safe AI deployment for organizations operating under hostile digital
 | Partner | Role |
 |---------|------|
 | [Oxylabs](https://oxylabs.io/project-4beta) | Pro bono data infrastructure (Project 4β) |
+| [Exolyt](https://exolyt.com) | TikTok social intelligence platform |
 
 ---
 
